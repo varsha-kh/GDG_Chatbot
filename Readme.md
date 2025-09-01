@@ -5,7 +5,6 @@
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)  
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-FF6F00?logo=tensorflow)  
 ![NLP](https://img.shields.io/badge/Domain-NLP-green?logo=apache-spark)  
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)  
 
 ---
 
@@ -105,10 +104,3 @@ jupyter notebook Chatbot_Varsha_Khandelwal_221171.ipynb
 🔗 [GitHub](https://github.com/varsha-kh) | [LinkedIn](https://linkedin.com/in/varsha-khandelwal17)  
 
 ---
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
-
----
-
-⭐ *If you find this project interesting, don’t forget to star the repo!*  
